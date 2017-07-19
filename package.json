@@ -1,0 +1,29 @@
+{
+  "name": "elb",
+  "version": "0.0.1-alpha",
+  "description": "A simple library for composable DOM elements using tagged template strings",
+  "main": "elb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/elb.git"
+  },
+  "keywords": [
+    "dom",
+    "element",
+    "frontend",
+    "template",
+    "reactive",
+    "binding",
+    "one-way-binding",
+    "template-literals"
+  ],
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/elb/issues"
+  },
+  "homepage": "https://github.com/serapath/elb#readme"
+}
